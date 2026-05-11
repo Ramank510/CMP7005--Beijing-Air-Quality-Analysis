@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyM1D7LX6wEfDJHlmEzMxyWG",
+      "authorship_tag": "ABX9TyO+Xw/hfdljLwkAsvbNfFZP",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -50,10 +50,10 @@
         "\n",
         "**Repo URL:** https://github.com/Ramank510/CMP7005--Beijing-Air-Quality-Analysis\n",
         "\n",
-        "All project files (app.py, dataset, model, figures, requirements) are hosted here.\n"
+        "All project files (app.py, dataset, model, figures, requirements) are hosted here."
       ],
       "metadata": {
-        "id": "ZEDFogeVETBP"
+        "id": "H7FcAOSfJIgP"
       }
     },
     {
@@ -66,7 +66,7 @@
         "The deployed dashboard has 4 pages: Overview, Dataset Explorer, Visualisations, and Model Outputs."
       ],
       "metadata": {
-        "id": "ZBoJIx7AEgAs"
+        "id": "zSBvTbedJPhW"
       }
     },
     {
